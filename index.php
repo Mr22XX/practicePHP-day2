@@ -35,7 +35,7 @@ $buku = [
         "judul" => "Buku Ajar Tumbuh Kembang Remaja & Permasalahanya",
         "pengarang" => "Soetjiningsih",
         "penerbit" => "Sagung Seto",
-        "terbit" => "2004"
+        "terbit" => "2005"
     ]
 ]
 
